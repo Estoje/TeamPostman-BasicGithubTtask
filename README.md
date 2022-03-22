@@ -3,9 +3,9 @@ Author: Temitope Okewande
 
 To test this project 
 create a .env file in this path /src/test/resources/
-and add your EMAIL and PASSWORD environment variable 
+and add your EMAIL and PASSWORD environment variable. 
 
-
+Example:
 EMAIL=foo@foo.com
 PASSWORD=foo
 
