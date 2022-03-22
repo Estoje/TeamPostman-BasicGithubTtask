@@ -1,0 +1,18 @@
+var baby="TiaraOluwa";
+var surname="Okewande";
+System.println(baby.surname);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
